@@ -49,13 +49,6 @@
 
 ---
 
-### 🏆 Achievements:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satyamkmr22&theme=radical" alt="GitHub Trophies" />
-</p>
-
----
-
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=satyamkmr22&icon=8&color=4" alt="Profile Views" />
 </p>
