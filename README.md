@@ -5,17 +5,16 @@
 
 ### 📖 About Me:
 - 🎓 I'm a third-year undergrad at **IIT Kanpur**.
-- 🔭 Currently working on [Amazon ML Challenge](https://www.kaggle.com/datasets/abhishekgautam12/amazon-ml-challenge-2024).
+- 🔭 Currently working on **Fine Tuning of LLMs for different uses**.
 - 🌱 Exploring **AWS, LLM, VLM, MongoDB**.
 - 💬 Ask me about **React, Firebase, Three.js**.
-- 📫 Reach me at **satyamkmr22@iitk.ac.in**.
 - 👨‍💻 Find my projects on [LinkedIn](https://www.linkedin.com/in/satyamkmr22/).
 - 📄 View my [Resume](https://drive.google.com/file/d/13WNpDEznxzEsszudntg_Wx6a2ScA58bo/view?usp=sharing).
 
 <p align="center">
 <a href="https://linkedin.com/in/satyamkmr22"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://instagram.com/_satyam_2004_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://facebook.com/satyamkmr22"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="mailto:satyamkmr22@iitk.ac.in"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://wa.me/7667967100"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ---
