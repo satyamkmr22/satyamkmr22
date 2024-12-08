@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Satyam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A tech passionate individual currently studying at IIT Kanpur.</h3>
 
 ---
 
@@ -20,6 +20,19 @@
 
 ---
 
+### 🛠️ Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+---
+
 ### 📊 My GitHub Stats:
 
 <p align="center">
@@ -34,20 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkmr22&theme=radical&layout=compact" alt="Top Languages" />
 </p>
 
----
-
-### 🛠️ Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
----
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=satyamkmr22&icon=8&color=4" alt="Profile Views" />
