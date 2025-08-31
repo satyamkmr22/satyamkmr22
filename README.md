@@ -6,8 +6,8 @@
 ### 📖 About Me:
 - 🎓 I'm a third-year undergrad at **IIT Kanpur**.
 - 🔭 Currently working on **Fine Tuning of LLMs for different uses**.
-- 🌱 Exploring **AWS, LLM, VLM, MongoDB**.
-- 💬 Ask me about **React, Firebase, Three.js**.
+- 🌱 Exploring **AWS, LLM, MongoDB**.
+- 💬 Ask me about **React, Firebase, Three.js, Express.js**.
 - 👨‍💻 Find my projects on [LinkedIn](https://www.linkedin.com/in/satyamkmr22/).
 - 📄 View my [Resume](https://drive.google.com/file/d/13WNpDEznxzEsszudntg_Wx6a2ScA58bo/view?usp=sharing).
 
